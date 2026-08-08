@@ -1,0 +1,22 @@
+<resources>
+    <color name="launcher_background">#23343B</color>
+    <color name="button_primary_start">#31484C</color>
+    <color name="button_primary_end">#1F3238</color>
+    <color name="button_primary_stroke">#4D6364</color>
+    <color name="button_secondary_start">#FDFDFB</color>
+    <color name="button_secondary_end">#EEF5EF</color>
+    <color name="button_secondary_stroke">#D5E2D5</color>
+    <color name="button_goal_start">#364E55</color>
+    <color name="button_goal_end">#26363C</color>
+    <color name="button_goal_done_start">#4C9C74</color>
+    <color name="button_goal_done_end">#2F7D58</color>
+    <color name="button_goal_stroke">#6FB58C</color>
+    <color name="button_chip_start">#F9F5EA</color>
+    <color name="button_chip_end">#EFE8D7</color>
+    <color name="button_chip_stroke">#DDD4C3</color>
+    <color name="button_delete_start">#FFF4EF</color>
+    <color name="button_delete_end">#F5E2DA</color>
+    <color name="button_delete_stroke">#E6CABE</color>
+    <color name="button_ripple_light">#33FFFFFF</color>
+    <color name="button_ripple_dark">#22314343</color>
+</resources>
